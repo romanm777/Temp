@@ -1,0 +1,13 @@
+
+.confluenceTable th{ 
+    background: #ff0000;
+}
+.confluenceTable tr:nth-child(even){ 
+    background: #f0f0f0;
+}
+.confluenceTable tr:nth-child(odd){ 
+    background: #edf4f9;
+}
+
+
+
